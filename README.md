@@ -1,1 +1,4 @@
-# meteor-guard-frontend
+# meteor-guard
+MeteorGuard is a lightweight, interactive web app that simulates meteor entry scenarios using real small-body data and visualizes potential ground effects for fast, informed exploration of impact risk. It lets users select or parameterize an object (size, speed, angle, composition), choose an entry location on a map, and instantly see estimated kinetic energy, regime (airburst vs impact), and overpressure zones with clear, intuitive visuals.  
+
+This directly addresses Meteor Madness by turning NASA/JPL small-body information into actionable, scenario-based insights and a hands-on learning tool that demystifies how entry parameters drive consequences. It is important because it bridges open space data and public understanding, enabling educators, students, and civic decision‑makers to compare “what‑if” conditions and discuss mitigation and preparedness in an accessible, evidence‑informed way.
