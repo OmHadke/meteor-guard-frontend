@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@deck.gl/core": "^9.1.15",
+    "@deck.gl/layers": "^9.1.15",
+    "deck.gl": "^9.1.15",
+    "maplibre-gl": "^5.8.0"
+  },
+  "devDependencies": {
+    "@types/maplibre-gl": "^1.14.0"
+  }
+}
